@@ -19,7 +19,7 @@ More projects coming soon!
 
 ## 🛠 How to Use  
 1. Clone this repository:  
-   git clone https://github.com/YumeshBan/react-projects.git
+   git clone https://github.com/YUMESHBAN/React.JS-Projects.git
 
 2. Navigate to a project folder:
    cd project-name
